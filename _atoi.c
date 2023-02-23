@@ -61,7 +61,6 @@ int _atoi(char *s)
 		else if (flag == 1)
 			flag = 2;
 	}
-
 	if (sign == -1)
 		output = -result;
 	else
